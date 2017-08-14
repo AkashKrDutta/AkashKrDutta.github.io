@@ -9,7 +9,7 @@ categories:
   - graylog
 comments: true
 ---
-
+## Kubernetes deployment of Graylog
 This post is follow up from the deployment of Graylog in Docker.
 My internship was a success, as I was finally able to deploy the Graylog service in GCE as well as AWS using Kubernetes.
 
