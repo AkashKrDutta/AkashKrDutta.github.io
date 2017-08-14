@@ -1,0 +1,28 @@
+title: Akash Kumar Dutta
+description: My Personal Blog
+author: Akash Kumar Dutta
+logo: /static/img/avatar.png
+github: https://github.com/AkashKrDutta
+about: Enthusiastic Learner
+
+baseurl: ""
+url: ""
+
+allowsearch: true
+
+disqus_shortname: Akash
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]

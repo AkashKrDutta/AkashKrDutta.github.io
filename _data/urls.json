@@ -1,0 +1,40 @@
+[
+  {
+    "text": "Home",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "Projects",
+    "url": "/projects",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "Categories",
+    "url": "/category/kubernetes",
+    "icon": "fa-tags",
+    
+  },
+  {
+    "text": "Resume",
+    "url": "/assets/cv.pdf",
+    "icon": "fa-graduation-cap",
+  },
+  {
+    "text": "Github",
+    "url": "https://github.com/AkashKrDutta",
+    "icon": "fa-github"
+  },
+  {
+    "text": "XML Feed",
+    "url": "/feed.xml",
+    "icon": "fa-feed",
+    "target": _blank
+  }
+]
