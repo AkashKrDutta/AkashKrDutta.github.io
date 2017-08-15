@@ -11,11 +11,6 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
-  },
-  {
     "text": "Categories",
     "url": "/category/kubernetes",
     "icon": "fa-chain",
