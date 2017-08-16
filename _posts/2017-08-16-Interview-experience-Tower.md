@@ -30,7 +30,7 @@ My View: What I feel is that they look at competitive programming, what contests
 They mentioned in their proforma, a technical round of 45 mins. Which, to my advantage, didn’t occur. I had 2 hours of interview with the people at Tower Research. The interview for Tower is held Phonic. People who get a lot of nervous in a face to face round may calm down.
 
 ## First Round
-My first round was pure mathematics. It was a 1-hour phonic interview. Topics asked covered  Probability (not that is taught in MSO 201, but more inclined towards finding Expectation Values), Recursive formulation of solutions in Maths, hard counting problems, a little Number Theory and finally some Algorithm related stuff.
+My first round was based on mathematics. It was a 1-hour phonic interview. Topics asked covered  Probability (not that is taught in MSO 201, but more inclined towards finding Expectation Values), Recursive formulation of solutions in Maths, hard counting problems, a little Number Theory and finally some Algorithm related stuff.
 The questions that were asked were (tried my best maintaining the ordering of the questions as they were asked):
 1. Prove that consecutive fibonacci numbers are always co-prime.
 2. 4 Foxes and 7 Hounds enter a cave in a straight line following a random ordering, find the expected no of foxes that are immediately followed by a Hound.
