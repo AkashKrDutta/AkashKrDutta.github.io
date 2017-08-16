@@ -12,7 +12,7 @@ comments: true
 I just had my interview at Tower Research Capital and the memories are fresh. This post might help someone in future or help me reminiscence the past. 
 
 ## The Countdown
-We all were waiting for the companies to be appearing in the Internship Portal. The companies came and in a group. Tower, DE Shaw, Samsung Korea, Goldman Sachs, big companies booked for day 1. We started reading their proforma, about each company researched, who knew at that time, what you have stored in your fate. In this post, we talk only about Tower. Fasten your seat belts guys :)
+We all were waiting anxiously for the companies to be appearing in the Internship Portal. The companies came and in a group. Tower, DE Shaw, Samsung Korea, Goldman Sachs, big companies booked for day 1. We started reading their proforma, about each company researched, who knew at that time, what you have stored in your fate. In this post, we talk only about Tower. Fasten your seat belts guys :)
 
 ## Branches Open For
 Tower Research Capital was open for CSE, MnC, and EE. Condolences for people other than these branches, but you have many other cool companies to apply! Plenty of choices indeed!
@@ -33,17 +33,17 @@ They had as they mentioned in their proforma, a technical round of 45 mins. Whic
 ## First Round
 My first round was pure mathematics. It was a 1-hour phonic interview. Topics asked covered  Probability (not that is taught in MSO 201, but more inclined towards finding Expectation Values), Recursive formulation of solutions in Maths, hard counting problems, a little Number Theory and finally some Algorithm related stuff.
 The questions that were asked were (tried best maintaining the questions ordering as they were asked):
-1)  Prove that consecutive fibonacci numbers are always co-prime.
-2)  4 Foxes and 7 Hounds enter a cave in a straight line following a random ordering, find the expected no of foxes that are immediately followed by a Hound.
-3) Find the number of binary strings of length n, that have at most k consecutive length of 1’s in them.
-4) Find the probability that two consecutive heads doesn’t appear in n consecutive throws of an unbiased coin.
-5) Given two random x and y values from 0 to 1 inclusive, give a process to find a point in a 2-D plane inside a circle, centered at the origin with each point being equally likely.
-6) Given a rooted tree, find the points that have k distance between them.
+1. Prove that consecutive fibonacci numbers are always co-prime.
+2. 4 Foxes and 7 Hounds enter a cave in a straight line following a random ordering, find the expected no of foxes that are immediately followed by a Hound.
+3. Find the number of binary strings of length n, that have at most k consecutive length of 1’s in them.
+4. Find the probability that two consecutive heads doesn’t appear in n consecutive throws of an unbiased coin.
+5. Given two random x and y values from 0 to 1 inclusive, give a process to find a point in a 2-D plane inside a circle, centered at the origin with each point being equally likely.
+6. Given a rooted tree, find the points that have k distance between them.
 
 ## Second Round
 This was an algorithmic round. It was also for 1 hour. The questions asked were: 
-1) A very long question about a dynamic Data Structure that required some special operations of a query and incrementing a certain counter variable on a daily basis from millions of user across the globe. Our task was to formulate Data Structure and algorithm for this job. The query gave the number of counter increments in the rolling window of the last second.
-2) Given n pairs of numbers (x,y). We needed to form a binary tree, in which each node had values (x,y) such that x values formed a min Heap, while y values formed a BST.
+1. A very long question about a dynamic Data Structure that required some special operations of a query and incrementing a certain counter variable on a daily basis from millions of user across the globe. Our task was to formulate Data Structure and algorithm for this job. The query gave the number of counter increments in the rolling window of the last second.
+2. Given n pairs of numbers (x,y). We needed to form a binary tree, in which each node had values (x,y) such that x values formed a min Heap, while y values formed a BST.
 
 After that, we had discussions about my projects and areas that interest me. The person at second round was better to talk with than the first one. I was able to convince him a lot better.
  
