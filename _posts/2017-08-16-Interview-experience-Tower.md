@@ -12,7 +12,7 @@ comments: true
 I just had my interview at Tower Research Capital and the memories are fresh. This post might help someone in future or help me reminiscence the past. 
 
 ## The Countdown
-We all were anxiously waiting  for the companies to be appearing in the Internship Portal. The companies came in a group. Tower, Samsung Korea, DE Shaw, Goldman Sachs, and many other big companies booked for day 1. We started reading their proforma, about each company researched, who knew at that time, what you have stored in your fate. In this post, we talk only about Tower. Fasten your seat belts guys :)
+We all were anxiously waiting  for the companies to be appearing in the Internship Portal. The companies came in a group. Tower, Samsung Korea, DE Shaw, Goldman Sachs, and many other big companies booked for day 1. We started reading their proforma, and researched about each company, who knew, what we had stored in our fate. So lets begin! In this post, we talk only about Tower. Fasten your seat belts guys :)
 
 ## Branches Open For
 Tower Research Capital was open for CSE, MnC, and EE. Condolences for people other than these branches, but you have many other cool companies to apply! Plenty of choices indeed!
