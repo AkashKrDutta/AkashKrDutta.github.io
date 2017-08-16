@@ -40,7 +40,7 @@ The questions that were asked were (tried my best maintaining the ordering of th
 6. Given a rooted tree, find the points that have k distance between them.
 
 ## Second Round
-This was an algorithmic round. It was also for 1 hour. The questions asked were: 
+This was an algorithmic round. It was also for 1-hour and phonic. The questions asked were: 
 1. A very long question about a dynamic Data Structure that required some special operations of a query and incrementing a certain counter variable on a daily basis from millions of user across the globe. Our task was to formulate Data Structure and algorithm for this job. The query gave the number of counter increments in the rolling window of the last second.
 2. Given n pairs of numbers (x,y). We needed to form a binary tree, in which each node had values (x,y) such that x values formed a min Heap, while y values formed a BST.
 
