@@ -3,11 +3,7 @@ layout: post
 title: HTML 5 Game Dev
 comments: true
 description: For all those gaming nerds out there, there isn’t a better way to develop your gaming skills but to start from scratch of how a game works and to build your own one!
-tag: 
-  - gamedev
-  - html5
 categories:
-  - featured
   - gamedev
   - html5
 ---
