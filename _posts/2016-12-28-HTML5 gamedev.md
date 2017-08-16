@@ -6,7 +6,7 @@ description: For all those gaming nerds out there, there isn’t a better way to
 tag: 
   - gamedev
   - html5
-category:
+categories:
   - featured
   - gamedev
   - html5
