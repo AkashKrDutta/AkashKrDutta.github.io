@@ -8,6 +8,8 @@ tag:
   - html5
 category:
   - featured
+  - gamedev
+  - html5
 ---
 ## HTML5 Game Development  
 For all those gaming nerds out there, there isn’t a better way to develop your gaming skills but to start from scratch of how a game works and to build your own one!
