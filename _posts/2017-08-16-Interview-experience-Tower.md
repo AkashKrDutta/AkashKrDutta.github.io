@@ -3,8 +3,8 @@ layout: post
 title: Tower Research Capital Interview Experience
 date: 2017-8-16
 categories:
-  - interview experience
-  - Tower Research Capital
+  - interview_experience
+  - Tower_Research_Capital
 comments: true
 ---
 
