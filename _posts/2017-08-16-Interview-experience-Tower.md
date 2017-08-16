@@ -31,7 +31,7 @@ They mentioned in their proforma, a technical round of 45 mins. Which, to my adv
 
 ## First Round
 My first round was pure mathematics. It was a 1-hour phonic interview. Topics asked covered  Probability (not that is taught in MSO 201, but more inclined towards finding Expectation Values), Recursive formulation of solutions in Maths, hard counting problems, a little Number Theory and finally some Algorithm related stuff.
-The questions that were asked were (tried best maintaining the questions ordering as they were asked):
+The questions that were asked were (tried my best maintaining the ordering of the questions as they were asked):
 1. Prove that consecutive fibonacci numbers are always co-prime.
 2. 4 Foxes and 7 Hounds enter a cave in a straight line following a random ordering, find the expected no of foxes that are immediately followed by a Hound.
 3. Find the number of binary strings of length n, that have at most k consecutive length of 1’s in them.
