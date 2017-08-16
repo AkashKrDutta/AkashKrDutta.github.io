@@ -22,13 +22,12 @@ After the display of company proforma, in between, one gets a lot of time to pre
 
 ## The Shortlisting
 The shortlisting CPI criterion for Tower Research was not something high as 9.5. Many have a misconception about this. It was 8.0. But, they also look at your key projects and work experience. <br/>
-My View: What I feel is that they look at competitive programming, what contests you have participated, achievements in them. Also, if not that, they look at decent coding skills. Plus on top of that, if you have with yourself some cool development projects, that is a huge bonus. That was pretty much what my resume looked like. Some programming contests, good development work experience. One more thing, a resume should be designed in a way that shows one’s curiosity to learn something new, representing one as busy doing things throughout the year, and must be intriguing. Let’s move on.
- 8 were shortlisted for the interview.
+My View: What I feel is that they look at competitive programming, what contests you have participated, achievements in them. Also, if not that, they look at decent coding skills. Plus on top of that, if you have with yourself some cool development projects, that is a huge bonus. That was pretty much what my resume looked like. Some programming contests, good development work experience. One more thing, a resume should be designed in a way that shows one’s curiosity to learn something new, representing one as busy doing things throughout the year, and must be intriguing. 8 were shortlisted for the interview.
 
 
 
 ## Interview Process
-They had as they mentioned in their proforma, a technical round of 45 mins. Which, to my advantage, didn’t occur. I had 2 hours of interview with the people at Tower Research. The interview for Tower is held Phonic. So, one must get their phone fully-charged throughout the interview day. People who get a lot of nervous getting face to face may calm down.
+They mentioned in their proforma, a technical round of 45 mins. Which, to my advantage, didn’t occur. I had 2 hours of interview with the people at Tower Research. The interview for Tower is held Phonic. People who get a lot of nervous getting face to face may calm down.
 
 ## First Round
 My first round was pure mathematics. It was a 1-hour phonic interview. Topics asked covered  Probability (not that is taught in MSO 201, but more inclined towards finding Expectation Values), Recursive formulation of solutions in Maths, hard counting problems, a little Number Theory and finally some Algorithm related stuff.
