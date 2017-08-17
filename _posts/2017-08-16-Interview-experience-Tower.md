@@ -36,7 +36,7 @@ The questions that were asked were (tried my best maintaining the ordering of th
 2. 4 Foxes and 7 Hounds enter a cave in a straight line following a random ordering, find the expected no of foxes that are immediately followed by a Hound.
 3. Find the number of binary strings of length n, that have at most k consecutive length of 1’s in them.
 4. Find the probability that two consecutive heads doesn’t appear in n consecutive throws of an unbiased coin.
-5. Given two random x and y values from 0 to 1 inclusive, give a process to find a point in a 2-D plane inside a circle, centered at the origin with each point being equally likely.
+5. Given two random x and y values from 0 to 1 inclusive, state a method how you would chose a point in a 2-D plane inside a circle, centered at the origin with each point being equally likely, using x and y.
 6. Given a rooted tree, find the points that have k distance between them.
 
 ## Second Round
