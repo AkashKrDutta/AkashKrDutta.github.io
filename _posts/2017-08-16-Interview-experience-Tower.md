@@ -9,7 +9,7 @@ comments: true
 ---
 
 ## Third Year Summers Intern Interview Experience
-I just had my interview at Tower Research Capital and the memories are fresh. This post might help someone in future or help me reminiscence the past. 
+I just had my interview at Tower Research Capital and the memories are fresh. This post might help someone in future or help me reminiscence. 
 
 ## The Countdown
 We all were anxiously waiting  for the companies to be appearing in the Internship Portal. The companies came in a group. Tower, Samsung Korea, DE Shaw, Goldman Sachs, and many other big companies booked for day 1. We started reading their proforma, and researched about each company, who knew, what we had stored in our fate. So lets begin! In this post, we talk only about Tower. Fasten your seat belts guys :)
