@@ -49,7 +49,7 @@ After that, we had discussions about my projects and areas that interest me. The
 ## Results
 The results came on the night of the 1st day of interviews. Four people were selected in Tower. And bang on, I was there! I also got selected in Samsung, South Korea as well. But I chose Tower over that!
 
-Edit Info : It takes time to reach to the solution. What they observe is the approach you take in solving and how innovative can you become in solving the problem. Once you solve some of the good problems, you are almost there.
+Edit Info (suggestion - Divyansh) : It takes time to reach to the solution. What they observe is the approach you take in solving and how innovative can you become in solving the problem. Once you solve some of the good problems, you are almost there.
 
 Thanks for reading. All the best :)
 
