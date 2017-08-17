@@ -49,6 +49,6 @@ After that, we had discussions about my projects and areas that interest me. The
 ## Results
 The results came on the night of the 1st day of interviews. Four people were selected in Tower. And bang on, I was there! I also got selected in Samsung, South Korea as well. But I chose Tower over that!
 
-Thanks for reading, All the best :)
+Thanks for reading. All the best :)
 
 That’s all folks!
