@@ -47,7 +47,7 @@ This was an algorithmic round. It was also for 1-hour and phonic. The questions 
 After that, we had discussions about my projects and areas that interest me. The person at second round was better to talk with than the first one. I was able to convince him a lot better.
  
 ## Results
-The results came on the night of the 1st day of interviews. Four people were selected in Tower. And bang on, I was there!
+The results came on the night of the 1st day of interviews. Four people were selected in Tower. And bang on, I was there! I also got selected in Samsung, South Korea as well. But I chose Tower over that!
 
 Thanks for reading, All the best :)
 
