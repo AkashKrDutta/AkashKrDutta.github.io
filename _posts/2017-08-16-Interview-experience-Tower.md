@@ -15,7 +15,7 @@ I just had my interview at Tower Research Capital and the memories are fresh. Th
 We all were anxiously waiting  for the companies to be appearing in the Internship Portal. The companies came in a group. Tower, Samsung Korea, DE Shaw, Goldman Sachs, and many other big companies booked for day 1. We started reading their proforma, and researched about each company, who knew, what we had stored in our fate. So lets begin! In this post, we talk only about Tower. Fasten your seat belts guys :)
 
 ## Branches Open For
-Tower Research Capital was open for CSE, MnC, and EE. Condolences for people other than these branches, but you have many other cool companies to apply! Plenty of choices indeed!
+Tower Research Capital was open for CSE, MnC, and EE. For people other than these branches, you have many other cool companies to apply for! Plenty of choices indeed!
 
 ## The Preparation
 After the display of company proforma, in between, one gets a lot of time to prepare for their choice of companies. I contacted my seniors. Had talks with people from previous batches who were Interning at Tower, and asked them about their experience. They all had one answer. The question that they ask at their interviews, cannot be prepared for. The questions have novelty and can’t be found on google. I hence started preparing for other interviews and coding tests that I had to clear (Tower doesn’t have a coding test round, only interview shortlisting. For others, they might shortlist for a coding/quant test and then on the basis of this result, students are shortlisted for interview rounds)
