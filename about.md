@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <center>
 
-<img width="30%" height="30%" src="{{ site.urlimg }}/static/img/avatar.png" alt="{{ site.owner.name }}'s photo" itemprop="image" class="img-responsive"/> 
+<img width="20%" height="20%" src="{{ site.urlimg }}/static/img/me_only.png" alt="{{ site.owner.name }}'s photo" itemprop="image" class="img-responsive"/> 
 
 </center>
 
