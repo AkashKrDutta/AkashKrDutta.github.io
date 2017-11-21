@@ -28,7 +28,7 @@ My View: Firstly, they state in the proforma, the CPI to be greater than 8.0, bu
 
 
 ## Interview Process
-They mentioned in their proforma, a technical round of 45 mins. Which, to my advantage, didn’t occur. I had 2 hours of interview with the people at Tower Research. The interview for Tower is held Phonic. People who get nervous in a face to face interviews need not to worry in this case.
+They mentioned in their proforma, a technical round of 45 mins. Which, to my advantage, didn’t occur. I had 2 hours of interview with the people at Tower Research. The interview for Tower is held Phonic. People who get nervous in face to face interviews need not to worry in this case.
 
 ## First Round
 My first round was based on mathematics. It was a 1-hour phonic interview. Topics asked covered  Probability (not that is taught in MSO 201, but more inclined towards finding Expectation Values), Recursive formulation of solutions in Maths, hard counting problems, a little Number Theory and finally some Algorithm related stuff.
