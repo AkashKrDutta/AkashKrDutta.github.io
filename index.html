@@ -1,62 +1,45 @@
 ---
 layout: default
-title: Blog
 ---
-<div class="well">
-    <div class="list-group">
-      {% for post in paginator.posts %}
-      <div class="list-group-item">
-        <div class="row-action-primary">
-          <i class="fa fa-th-list"></i>
-        </div>
-        <div class="row-content">
-          <div class="least-content">{{ post.date | date_to_string }}</div>
-          <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
 
-          <p class="list-group-item-text">{{ post.content | strip_html | truncatewords: 20 }}</p>
-        </div>
-      </div>
-      <div class="list-group-separator"></div>
+<div class="home">
+  <div class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+
+    {% for post in paginator.posts %}
+
+    <header class="post-header">
+      <h1 itemprop="name" class="post-title">
+        <a itemprop="url" class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
+      <p class="post-meta">
+      {{ site.locales[site.default_locale].PostedInCategories }}
+      {% for cat in post.categories %}
+      <a href="/categories/#{{ cat }}">{{ cat }}</a>{% unless post.categories.last == cat%}, {% endunless %}
       {% endfor %}
-    </div>
-   
-
-    <!-- Pagination links -->
-    {% if paginator.total_pages > 1 %}
-    <ul class="pager">
-      {% if paginator.previous_page %}
-        <li class="previous">
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
-        </li>
-      {% else %}
-        <li class="previous disabled"><span aria-hidden="true">&laquo;</span></li>
-      {% endif %}
-
-      <li><a href="/">First</a></li>
-
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-          <li class="active">
-             <a>{{ page }}<span class="sr-only">(current)</span></a>
-          </li>
-        {% elsif page == 1 %}
-          <li><a href="/">{{ page }}</a></li>
-        {% else %}
-          <li>
-            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-          </li>
-        {% endif %}
+      {% if post.tags != empty %}
+      {{ site.locales[site.default_locale].Taggedwith }}
+      {% for tag in post.tags %}
+      <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>{% unless post.tags.last == tag %}, {% endunless %}
       {% endfor %}
-
-      <li><a href="/page{{ paginator.total_pages }}/">Last</a></li>
-
-      {% if paginator.next_page %}
-        <li class="next">
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
-        </li>
-      {% else %}
-        <li class="next disabled"><span>&raquo;</span></li>
       {% endif %}
-    </ul>
-    {% endif %}
-</div><!-- end #home -->
+      <time itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+        {{ site.locales[site.default_locale].PostDate }}{{ post.date | date: "%b %-d, %Y" }}
+      </time>
+      </p>
+    </header>
+
+    <article class="post-content" itemprop="articleBody">
+      {% if post.content contains site.excerpt_separator %}
+      {{ post.excerpt }}
+      <p style="text-align: right"><a href="{{ post.url }}">Read more</a></p>
+      {% else %}
+      {{ post.content }}
+      {% endif %}
+    </article>
+    <hr />
+
+    {% endfor %}
+
+  </div>
+</div>

@@ -2,9 +2,11 @@
 layout: post
 title: Tower Research Capital Interview Experience
 date: 2017-8-16
-categories:
-  - interview experience
+tags:
   - Tower Research Capital
+  - interview
+categories:
+  - interview-experience
 comments: true
 ---
 
@@ -13,6 +15,7 @@ I just had my interview at Tower Research Capital and the memories are fresh. Th
 
 ## The Countdown
 We all were anxiously waiting for the companies to be appearing on the Internship Portal. The companies came in a group. Tower, Samsung Korea, DE Shaw, Goldman Sachs, and many other big companies booked for day 1. We started reading their proforma and researched about each company, who knew, what we had stored in our fate. So let's begin! In this post, we shall talk only about Tower Research Capital. Fasten your seat belts guys :)
+<!-- more -->
 
 ## Branches Open For
 Tower Research Capital was open for CSE, MnC, and EE. For people other than these branches, you have many other cool companies to apply for! Plenty of choices indeed!
