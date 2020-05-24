@@ -2,15 +2,15 @@
 title: Bits of Tomorrow
 tagline: Defragmenting my ideas
 author: Akash
-email: 
-description: "Description" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "key, word"
+email: itshyperchaotic@gmail.com
+description: "A site to think out loud myself" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "akashkrdutta.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: twitter_handle
+twitter_username: iamakd1997
 github_username:  AkashKrDutta
 disqus_shortname: Akash
 favicon: "/images/favicon.ico"
