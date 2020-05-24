@@ -1,8 +1,8 @@
 ### Site info:
 title: Bits of Tomorrow
-tagline: Just me thinking out loud here
-author: Author
-email: email
+tagline: Defragmenting my ideas
+author: Akash
+email: 
 description: "Description" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "key, word"
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -14,7 +14,7 @@ twitter_username: twitter_handle
 github_username:  AkashKrDutta
 disqus_shortname: Akash
 favicon: "/images/favicon.ico"
-aboutme: this is about me in sidebar
+aboutme: Just thinking out loud here
 aboutme_photo: https://i.imgur.com/QQK6T5u.png
 #google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 google_analytics_key: 

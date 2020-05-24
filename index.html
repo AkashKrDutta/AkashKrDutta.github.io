@@ -37,7 +37,9 @@ layout: default
       {{ post.content }}
       {% endif %}
     </article>
-    <hr />
+    {% unless paginator.posts.last == post %}
+    <hr style="border:1px solid gray" />
+    {% endunless %}
 
     {% endfor %}
 

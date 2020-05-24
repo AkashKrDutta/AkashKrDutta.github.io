@@ -176,13 +176,16 @@ blockquote{
   margin: 14px 0;
   border: 2px dashed #d0dfda;
   border-radius: 5px;
-  color: $grey-color;
+  color: $blockquote-text-color;
   font-size: 18px;
   background: #f9f9f9;
 
-  &:hover {
-    color: #454545;
-  }
+/**
+ * &:hover {
+ *   color: #454545;
+ * }
+ */
+  
 
   > :last-child {
     margin-bottom: 0;
