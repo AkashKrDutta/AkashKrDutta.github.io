@@ -53,7 +53,7 @@ ul, ol, dl, figure,
   padding-left: $spacing-unit;
   padding-top:30px;
 
-  background-color:#fff;
+  background-color: $container-bg-color;
   margin-top:20px;
   margin-bottom:30px;
   box-shadow: 1px 1px 10px #BBB;
@@ -142,11 +142,11 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-top-color, 25%);
+    color: darken($brand-top-color, 5%);
   }
 
   &:hover {
-    color: #669900; //$hover-color;
+    color: lighten($brand-top-color,10%); //$hover-color;
     text-decoration: underline;
   }
 }
@@ -157,11 +157,11 @@ a {
   text-decoration: none;  
   border-bottom: 1px dotted;
   &:visited {             
-    color: darken($brand-color, 25%);
+    color: darken($brand-color, 5%);
   }                       
 
   &:hover {               
-    color: $hover-color;
+    color: lighten($brand-color, 10%);
     text-decoration: none;
   }  
 
